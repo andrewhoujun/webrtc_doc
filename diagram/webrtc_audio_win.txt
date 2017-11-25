@@ -18,3 +18,14 @@ AudioConferenceMixerImpl::UpdateToMix()
 
 
 
+ReadQueuedRenderData
+          |
+          V
+WebRtcAecm_BufferFarend
+../../webrtc/modules/audio_processing/echo_control_mobile_impl.cc
+
+
+
+
+
+
